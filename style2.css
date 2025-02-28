@@ -9,6 +9,9 @@ body {
     background-color: rgb(16, 15, 15);
     margin: 0px
 }
+#edit {
+    color: white;
+}
 
 ul{
     list-style: none;
